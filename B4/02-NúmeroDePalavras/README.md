@@ -1,0 +1,1 @@
+O programa deve ler como entrada o arquivo “entrada.txt” e retornando o numero de palavras presentes no arquivo. 
